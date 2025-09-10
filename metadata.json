@@ -1,0 +1,5 @@
+{
+  "name": "DocBook - Find & Book Doctors",
+  "description": "A modern web application for users to easily search for doctors, view detailed profiles, and schedule appointments. Features include advanced filtering, an interactive map view, and a seamless booking process.",
+  "requestFramePermissions": []
+}
